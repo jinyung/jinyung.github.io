@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery | WONG Jin Yung</title>
+    <link>/gallery/</link>
+      <atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gallery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Wong Jin Yung</copyright>
+    <image>
+      <url>/images/icon_hu72699764a24e7067fc95d777d52ba812_131682_512x512_fill_lanczos_center_2.png</url>
+      <title>Gallery</title>
+      <link>/gallery/</link>
+    </image>
+    
+  </channel>
+</rss>
