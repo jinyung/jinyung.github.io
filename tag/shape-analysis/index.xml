@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shape analysis | WONG Jin Yung</title>
-    <link>https://jinyung.github.io/tag/shape-analysis/</link>
-      <atom:link href="https://jinyung.github.io/tag/shape-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/shape-analysis/</link>
+      <atom:link href="/tag/shape-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>shape analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Wong Jin Yung</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
       <title>shape analysis</title>
-      <link>https://jinyung.github.io/tag/shape-analysis/</link>
+      <link>/tag/shape-analysis/</link>
     </image>
     
     <item>
       <title>Automated otolith image classification with multiple views: an evaluation on Sciaenidae</title>
-      <link>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</link>
+      <link>/publication/wong-2016-sciaenidotolith/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</guid>
+      <guid>/publication/wong-2016-sciaenidotolith/</guid>
       <description></description>
     </item>
     
