@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kar Hoe Loh | WONG Jin Yung</title>
-    <link>/author/kar-hoe-loh/</link>
-      <atom:link href="/author/kar-hoe-loh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jinyung.github.io/author/kar-hoe-loh/</link>
+      <atom:link href="https://jinyung.github.io/author/kar-hoe-loh/index.xml" rel="self" type="application/rss+xml" />
     <description>Kar Hoe Loh</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Wong Jin Yung</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
       <title>Kar Hoe Loh</title>
-      <link>/author/kar-hoe-loh/</link>
+      <link>https://jinyung.github.io/author/kar-hoe-loh/</link>
     </image>
     
     <item>
       <title>Automated otolith image classification with multiple views: an evaluation on Sciaenidae</title>
-      <link>/publication/wong-2016-sciaenidotolith/</link>
+      <link>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2016-sciaenidotolith/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</guid>
       <description></description>
     </item>
     

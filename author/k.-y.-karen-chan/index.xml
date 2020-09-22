@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Y. Karen Chan | WONG Jin Yung</title>
-    <link>/author/k.-y.-karen-chan/</link>
-      <atom:link href="/author/k.-y.-karen-chan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jinyung.github.io/author/k.-y.-karen-chan/</link>
+      <atom:link href="https://jinyung.github.io/author/k.-y.-karen-chan/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Y. Karen Chan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Wong Jin Yung</copyright><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
       <title>K. Y. Karen Chan</title>
-      <link>/author/k.-y.-karen-chan/</link>
+      <link>https://jinyung.github.io/author/k.-y.-karen-chan/</link>
     </image>
     
     <item>
@@ -22,9 +22,9 @@
     
     <item>
       <title>Evolution of feeding shapes swimming kinematics of barnacle naupliar larvae: a comparison between trophic modes</title>
-      <link>/publication/wong-2020-trophicmode/</link>
+      <link>https://jinyung.github.io/publication/wong-2020-trophicmode/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2020-trophicmode/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2020-trophicmode/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     IOB published a blog post about this paper, check it out &lt;a href=&#34;https://iobopen.wordpress.com/2020/07/28/oh-barnacles-the-journey-from-free-swimming-to-rock-pimple/&#34;&gt;here&lt;/a&gt;.
@@ -35,9 +35,9 @@
     
     <item>
       <title>Phylogenetic, ecological and biomechanical constraints on larval form: a comparative morphological analysis of barnacle nauplii</title>
-      <link>/publication/wong-2018-naupliimorph/</link>
+      <link>https://jinyung.github.io/publication/wong-2018-naupliimorph/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2018-naupliimorph/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2018-naupliimorph/</guid>
       <description></description>
     </item>
     
