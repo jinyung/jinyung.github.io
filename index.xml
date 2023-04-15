@@ -2,29 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WONG Jin Yung</title>
-    <link>https://jinyung.github.io/</link>
-      <atom:link href="https://jinyung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>WONG Jin Yung</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Wong Jin Yung</copyright><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Wong Jin Yung</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
       <title>WONG Jin Yung</title>
-      <link>https://jinyung.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
+      <title>Short human eccDNAs are predictable from sequences</title>
+      <link>/publication/chang-2023-deep-circle/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-2023-deep-circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tail’s tale: biomechanical roles of dorsal thoracic spine of barnacle nauplii</title>
+      <link>/publication/branam-2021-tail/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/branam-2021-tail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Swimming kinematics and hydrodynamics of barnacle larvae throughout development</title>
-      <link>https://jinyung.github.io/publication/wong-2020-cyprid/</link>
+      <link>/publication/wong-2020-cyprid/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/wong-2020-cyprid/</guid>
+      <guid>/publication/wong-2020-cyprid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of feeding shapes swimming kinematics of barnacle naupliar larvae: a comparison between trophic modes</title>
-      <link>https://jinyung.github.io/publication/wong-2020-trophicmode/</link>
+      <link>/publication/wong-2020-trophicmode/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/wong-2020-trophicmode/</guid>
+      <guid>/publication/wong-2020-trophicmode/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     IOB published a blog post about this paper, check it out &lt;a href=&#34;https://iobopen.wordpress.com/2020/07/28/oh-barnacles-the-journey-from-free-swimming-to-rock-pimple/&#34;&gt;here&lt;/a&gt;.
@@ -35,33 +51,51 @@
     
     <item>
       <title>Phylogenetic, ecological and biomechanical constraints on larval form: a comparative morphological analysis of barnacle nauplii</title>
-      <link>https://jinyung.github.io/publication/wong-2018-naupliimorph/</link>
+      <link>/publication/wong-2018-naupliimorph/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/wong-2018-naupliimorph/</guid>
+      <guid>/publication/wong-2018-naupliimorph/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Automated otolith image classification with multiple views: an evaluation on Sciaenidae</title>
-      <link>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</link>
+      <link>/publication/wong-2016-sciaenidotolith/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</guid>
+      <guid>/publication/wong-2016-sciaenidotolith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A combined morphological and molecular approach in identifying barnacle cyprids from the Matang Mangrove Forest Reserve in Malaysia: essentials for larval ecology studies</title>
-      <link>https://jinyung.github.io/publication/wong-2014-cypridid/</link>
+      <link>/publication/wong-2014-cypridid/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/wong-2014-cypridid/</guid>
+      <guid>/publication/wong-2014-cypridid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gallery</title>
-      <link>https://jinyung.github.io/gallery/</link>
+      <link>/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/gallery/</guid>
+      <guid>/gallery/</guid>
       <description>&lt;h2 id=&#34;animals&#34;&gt;Animals&lt;/h2&gt;
 &lt;p&gt;Click on the photos to see them move! (note: large file size)&lt;/p&gt;
 
@@ -91,8 +125,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;https://jinyung.github.io/gallery/animals/amphitrite1.gif&#34; data-caption=&#34;&amp;lt;i&amp;gt;Amphibalanus amphitrite&amp;lt;/i&amp;gt;&#34;&gt;
-  &lt;img data-src=&#34;https://jinyung.github.io/gallery/animals/amphitrite1_hufcbf73965dbca7e7c43e9bb764eea7bb_3996659_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;339&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;/gallery/animals/amphitrite1.gif&#34; data-caption=&#34;&amp;lt;i&amp;gt;Amphibalanus amphitrite&amp;lt;/i&amp;gt;&#34;&gt;
+  &lt;img data-src=&#34;/gallery/animals/amphitrite1_hufcbf73965dbca7e7c43e9bb764eea7bb_3996659_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;339&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -104,8 +138,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;https://jinyung.github.io/gallery/animals/lepas1.gif&#34; data-caption=&#34;&amp;lt;i&amp;gt;Lepas anatifera&amp;lt;/i&amp;gt;&#34;&gt;
-  &lt;img data-src=&#34;https://jinyung.github.io/gallery/animals/lepas1_hu394bf11133053e80f7b2ade4d05609b3_8477110_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;339&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;/gallery/animals/lepas1.gif&#34; data-caption=&#34;&amp;lt;i&amp;gt;Lepas anatifera&amp;lt;/i&amp;gt;&#34;&gt;
+  &lt;img data-src=&#34;/gallery/animals/lepas1_hu394bf11133053e80f7b2ade4d05609b3_8477110_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;339&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -117,8 +151,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;https://jinyung.github.io/gallery/animals/octolasmis1.gif&#34; data-caption=&#34;&amp;lt;i&amp;gt;Octolasmis warwickii&amp;lt;/i&amp;gt; and &amp;lt;i&amp;gt;Chelonibia testudinaria&amp;lt;/i&amp;gt;&#34;&gt;
-  &lt;img data-src=&#34;https://jinyung.github.io/gallery/animals/octolasmis1_hu8627f5f78891e9acba895f697663c2c7_15189064_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;339&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;/gallery/animals/octolasmis1.gif&#34; data-caption=&#34;&amp;lt;i&amp;gt;Octolasmis warwickii&amp;lt;/i&amp;gt; and &amp;lt;i&amp;gt;Chelonibia testudinaria&amp;lt;/i&amp;gt;&#34;&gt;
+  &lt;img data-src=&#34;/gallery/animals/octolasmis1_hu8627f5f78891e9acba895f697663c2c7_15189064_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;339&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -130,8 +164,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;https://jinyung.github.io/gallery/animals/rhizo.gif&#34; data-caption=&#34;Crab infested by parasitic Rhizocephalan barnacles&#34;&gt;
-  &lt;img data-src=&#34;https://jinyung.github.io/gallery/animals/rhizo_hu20cadf7fea0f20ff7ba92c520e79d8ec_7801467_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;341&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-animals&#34; href=&#34;/gallery/animals/rhizo.gif&#34; data-caption=&#34;Crab infested by parasitic Rhizocephalan barnacles&#34;&gt;
+  &lt;img data-src=&#34;/gallery/animals/rhizo_hu20cadf7fea0f20ff7ba92c520e79d8ec_7801467_0x190_resize_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;341&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -142,9 +176,9 @@
     
     <item>
       <title>Gallery | cycling</title>
-      <link>https://jinyung.github.io/cycling_gallery/</link>
+      <link>/cycling_gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/cycling_gallery/</guid>
+      <guid>/cycling_gallery/</guid>
       <description>&lt;p&gt;
 
 
@@ -170,8 +204,8 @@
     
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jinyung.github.io/cycling_gallery/gallery/thumb-moountain.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://jinyung.github.io/cycling_gallery/gallery/thumb-moountain_hu7cfcb955ea8cd000998c15f4e0f4ea84_452063_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/cycling_gallery/gallery/thumb-moountain.jpg&#34; &gt;
+  &lt;img data-src=&#34;/cycling_gallery/gallery/thumb-moountain_hu7cfcb955ea8cd000998c15f4e0f4ea84_452063_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -183,8 +217,8 @@
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://jinyung.github.io/cycling_gallery/gallery/%E8%81%96%E4%BA%BA%E7%80%91%E5%B8%83.jpg&#34; data-caption=&#34;聖人瀑布&#34;&gt;
-  &lt;img data-src=&#34;https://jinyung.github.io/cycling_gallery/gallery/%E8%81%96%E4%BA%BA%E7%80%91%E5%B8%83_hu57c2240f293b9ad6a195f8a9b38c7f93_816917_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/cycling_gallery/gallery/%E8%81%96%E4%BA%BA%E7%80%91%E5%B8%83.jpg&#34; data-caption=&#34;聖人瀑布&#34;&gt;
+  &lt;img data-src=&#34;/cycling_gallery/gallery/%E8%81%96%E4%BA%BA%E7%80%91%E5%B8%83_hu57c2240f293b9ad6a195f8a9b38c7f93_816917_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
