@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emily N Branam | WONG Jin Yung</title>
-    <link>/author/emily-n-branam/</link>
-      <atom:link href="/author/emily-n-branam/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jinyung.github.io/author/emily-n-branam/</link>
+      <atom:link href="https://jinyung.github.io/author/emily-n-branam/index.xml" rel="self" type="application/rss+xml" />
     <description>Emily N Branam</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Wong Jin Yung</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
       <title>Emily N Branam</title>
-      <link>/author/emily-n-branam/</link>
+      <link>https://jinyung.github.io/author/emily-n-branam/</link>
     </image>
     
     <item>
       <title>A tail’s tale: biomechanical roles of dorsal thoracic spine of barnacle nauplii</title>
-      <link>/publication/branam-2021-tail/</link>
+      <link>https://jinyung.github.io/publication/branam-2021-tail/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/branam-2021-tail/</guid>
+      <guid>https://jinyung.github.io/publication/branam-2021-tail/</guid>
       <description></description>
     </item>
     

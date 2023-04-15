@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | WONG Jin Yung</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jinyung.github.io/publication/</link>
+      <atom:link href="https://jinyung.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Wong Jin Yung</copyright>
     <image>
-      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://jinyung.github.io/publication/</link>
     </image>
     
     <item>
       <title>Short human eccDNAs are predictable from sequences</title>
-      <link>/publication/chang-2023-deep-circle/</link>
+      <link>https://jinyung.github.io/publication/chang-2023-deep-circle/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/chang-2023-deep-circle/</guid>
+      <guid>https://jinyung.github.io/publication/chang-2023-deep-circle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A tail’s tale: biomechanical roles of dorsal thoracic spine of barnacle nauplii</title>
-      <link>/publication/branam-2021-tail/</link>
+      <link>https://jinyung.github.io/publication/branam-2021-tail/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/branam-2021-tail/</guid>
+      <guid>https://jinyung.github.io/publication/branam-2021-tail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swimming kinematics and hydrodynamics of barnacle larvae throughout development</title>
-      <link>/publication/wong-2020-cyprid/</link>
+      <link>https://jinyung.github.io/publication/wong-2020-cyprid/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2020-cyprid/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2020-cyprid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of feeding shapes swimming kinematics of barnacle naupliar larvae: a comparison between trophic modes</title>
-      <link>/publication/wong-2020-trophicmode/</link>
+      <link>https://jinyung.github.io/publication/wong-2020-trophicmode/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2020-trophicmode/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2020-trophicmode/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     IOB published a blog post about this paper, check it out &lt;a href=&#34;https://iobopen.wordpress.com/2020/07/28/oh-barnacles-the-journey-from-free-swimming-to-rock-pimple/&#34;&gt;here&lt;/a&gt;.
@@ -51,25 +51,25 @@
     
     <item>
       <title>Phylogenetic, ecological and biomechanical constraints on larval form: a comparative morphological analysis of barnacle nauplii</title>
-      <link>/publication/wong-2018-naupliimorph/</link>
+      <link>https://jinyung.github.io/publication/wong-2018-naupliimorph/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2018-naupliimorph/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2018-naupliimorph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automated otolith image classification with multiple views: an evaluation on Sciaenidae</title>
-      <link>/publication/wong-2016-sciaenidotolith/</link>
+      <link>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2016-sciaenidotolith/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2016-sciaenidotolith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A combined morphological and molecular approach in identifying barnacle cyprids from the Matang Mangrove Forest Reserve in Malaysia: essentials for larval ecology studies</title>
-      <link>/publication/wong-2014-cypridid/</link>
+      <link>https://jinyung.github.io/publication/wong-2014-cypridid/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2014-cypridid/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2014-cypridid/</guid>
       <description></description>
     </item>
     
