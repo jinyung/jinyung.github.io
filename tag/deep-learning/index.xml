@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep learning | WONG Jin Yung</title>
-    <link>https://jinyung.github.io/tag/deep-learning/</link>
-      <atom:link href="https://jinyung.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>deep learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Wong Jin Yung</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
       <title>deep learning</title>
-      <link>https://jinyung.github.io/tag/deep-learning/</link>
+      <link>/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Short human eccDNAs are predictable from sequences</title>
-      <link>https://jinyung.github.io/publication/chang-2023-deep-circle/</link>
+      <link>/publication/chang-2023-deep-circle/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/chang-2023-deep-circle/</guid>
+      <guid>/publication/chang-2023-deep-circle/</guid>
       <description></description>
     </item>
     
