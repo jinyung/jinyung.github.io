@@ -33,7 +33,86 @@
       <link>/publication/wong-2020-cyprid/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
       <guid>/publication/wong-2020-cyprid/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;supplementary-videos&#34;&gt;Supplementary Videos&lt;/h2&gt;
+&lt;h3 id=&#34;video-s1&#34;&gt;Video S1&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/24epw/?direct%26mode=render&#34;
+    width = &#34;100%&#34;
+    height=&#34;500px&#34;
+    scrolling=&#34;yes&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+    class=&#34;myIframe&#34;
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Movement tracking of swimming &lt;em&gt;Capitulum mitella&lt;/em&gt; nauplius VI from ventral view (50× slow motion).&lt;/p&gt;
+&lt;h3 id=&#34;video-s2&#34;&gt;Video S2&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/56cdq/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;500px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Movement tracking of swimming &lt;em&gt;Capitulum mitella&lt;/em&gt; cyprid from dorsal view (100× slow motion).&lt;/p&gt;
+&lt;h3 id=&#34;video-s3&#34;&gt;Video S3&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/z2jfn/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;500px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Velocity and vorticity fields around swimming &lt;em&gt;Capitulum mitella&lt;/em&gt; nauplius VI from ventral view (50× slow motion; same individual as in Video S1). Nauplius swam in Re of 2.6.&lt;/p&gt;
+&lt;h3 id=&#34;video-s4&#34;&gt;Video S4&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/ufx6d/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;500px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Velocity and vorticity fields around swimming &lt;em&gt;Capitulum mitella&lt;/em&gt; cyprid from dorsal view (100× slow motion; same individual as in Video S2). Cyprid swam in Re of 4.8.&lt;/p&gt;
+&lt;h3 id=&#34;video-s5&#34;&gt;Video S5&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/t23m5/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;500px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Separation of velocity stagnation points from vorticity maximums/ minimums in trailing viscous wake vortices of cyprid (1000x slow motion). Individual used is identical to the one in Video S4.&lt;/p&gt;
+&lt;h3 id=&#34;video-s6&#34;&gt;Video S6&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/bre5g/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;500px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Velocity and vorticity fields around swimming &lt;em&gt;Capitulum mitella&lt;/em&gt; nauplius III from ventral view (50× slow motion). Nauplius swam in Re of 0.6.&lt;/p&gt;
+&lt;h3 id=&#34;video-s7&#34;&gt;Video S7&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/ms4xq/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;500px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Velocity and vorticity fields around swimming &lt;em&gt;Capitulum mitella&lt;/em&gt; cyprid from dorsal view (100× slow motion). Cyprid swim in Re of 1.8.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,11 +120,73 @@
       <link>/publication/wong-2020-trophicmode/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/wong-2020-trophicmode/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    IOB published a blog post about this paper, check it out &lt;a href=&#34;https://iobopen.wordpress.com/2020/07/28/oh-barnacles-the-journey-from-free-swimming-to-rock-pimple/&#34;&gt;here&lt;/a&gt;.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <description>&lt;h2 id=&#34;supplementary-videos&#34;&gt;Supplementary Videos&lt;/h2&gt;
+&lt;h3 id=&#34;video-s1&#34;&gt;Video S1&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/548qt/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;800px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;High speed video of swimming barnacle nauplii at 100× slow motion. &lt;strong&gt;Top&lt;/strong&gt;, nauplius of common intertidal barnacle, &lt;em&gt;Tetraclita japonica&lt;/em&gt;; &lt;strong&gt;bottom&lt;/strong&gt;, nauplius of the parasitic Rhizocephalan barnacle, &lt;em&gt;Polyascus planus&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;video-s2&#34;&gt;Video S2&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/nqr7s/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;280px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Kinematics analysis on appendage movements of the planktotrophic &lt;em&gt;Tetraclita&lt;/em&gt; nauplius&lt;/p&gt;
+&lt;h3 id=&#34;video-s3&#34;&gt;Video S3&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/ktw6x/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;280px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Kinematics analysis on appendage movements of the lecithotrophic &lt;em&gt;Polyascus&lt;/em&gt; nauplius&lt;/p&gt;
+&lt;h3 id=&#34;video-s4&#34;&gt;Video S4&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/m952x/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;800px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Velocity and vorticity fields around swimming nauplii from dorsal view (100× slow motion)&lt;/p&gt;
+&lt;h3 id=&#34;video-s5&#34;&gt;Video S5&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/nfh2b/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;800px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Velocity and vorticity fields around swimming nauplii from lateral view (100× slow motion)&lt;/p&gt;
+&lt;h3 id=&#34;video-s6&#34;&gt;Video S6&lt;/h3&gt;
+&lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/z3chv/?direct%26mode=render&#34;
+    width=&#34;100%&#34;
+    scrolling=&#34;yes&#34;
+    height=&#34;360px&#34;
+    marginheight=&#34;0&#34;
+    frameborder=&#34;0&#34;
+    allowfullscreen
+    webkitallowfullscreen
+&gt;&lt;/iframe&gt;
+&lt;p&gt;Velocity and vorticity fields around swimming nauplii from lateral view (100× slow motion).&lt;/p&gt;
 </description>
     </item>
     

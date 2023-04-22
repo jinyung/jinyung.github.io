@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact | WONG Jin Yung</title>
+    <link>/contact/</link>
+      <atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contact</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Wong Jin Yung</copyright>
+    <image>
+      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <title>Contact</title>
+      <link>/contact/</link>
+    </image>
+    
+  </channel>
+</rss>
