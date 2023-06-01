@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benny K. K. Chan | WONG Jin Yung</title>
-    <link>/author/benny-k.-k.-chan/</link>
-      <atom:link href="/author/benny-k.-k.-chan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jinyung.github.io/author/benny-k.-k.-chan/</link>
+      <atom:link href="https://jinyung.github.io/author/benny-k.-k.-chan/index.xml" rel="self" type="application/rss+xml" />
     <description>Benny K. K. Chan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Wong Jin Yung</copyright><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_3.png</url>
       <title>Benny K. K. Chan</title>
-      <link>/author/benny-k.-k.-chan/</link>
+      <link>https://jinyung.github.io/author/benny-k.-k.-chan/</link>
     </image>
     
     <item>
       <title>Swimming kinematics and hydrodynamics of barnacle larvae throughout development</title>
-      <link>/publication/wong-2020-cyprid/</link>
+      <link>https://jinyung.github.io/publication/wong-2020-cyprid/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2020-cyprid/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2020-cyprid/</guid>
       <description>&lt;h2 id=&#34;supplementary-videos&#34;&gt;Supplementary Videos&lt;/h2&gt;
 &lt;h3 id=&#34;video-s1&#34;&gt;Video S1&lt;/h3&gt;
 &lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/24epw/?direct%26mode=render&#34;
@@ -101,9 +101,9 @@
     
     <item>
       <title>Evolution of feeding shapes swimming kinematics of barnacle naupliar larvae: a comparison between trophic modes</title>
-      <link>/publication/wong-2020-trophicmode/</link>
+      <link>https://jinyung.github.io/publication/wong-2020-trophicmode/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2020-trophicmode/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2020-trophicmode/</guid>
       <description>&lt;h2 id=&#34;supplementary-videos&#34;&gt;Supplementary Videos&lt;/h2&gt;
 &lt;h3 id=&#34;video-s1&#34;&gt;Video S1&lt;/h3&gt;
 &lt;iframe src=&#34;https://mfr.osf.io/render?url=https://osf.io/download/548qt/?direct%26mode=render&#34;
@@ -176,17 +176,17 @@
     
     <item>
       <title>Phylogenetic, ecological and biomechanical constraints on larval form: a comparative morphological analysis of barnacle nauplii</title>
-      <link>/publication/wong-2018-naupliimorph/</link>
+      <link>https://jinyung.github.io/publication/wong-2018-naupliimorph/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2018-naupliimorph/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2018-naupliimorph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A combined morphological and molecular approach in identifying barnacle cyprids from the Matang Mangrove Forest Reserve in Malaysia: essentials for larval ecology studies</title>
-      <link>/publication/wong-2014-cypridid/</link>
+      <link>https://jinyung.github.io/publication/wong-2014-cypridid/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/wong-2014-cypridid/</guid>
+      <guid>https://jinyung.github.io/publication/wong-2014-cypridid/</guid>
       <description></description>
     </item>
     
