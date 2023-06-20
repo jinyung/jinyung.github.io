@@ -256,15 +256,8 @@ Predicted shapes from regression of shape on size. &lt;strong&gt;Drag the slider
 predicted shapes at different percentiles of size.&lt;/p&gt;
 &lt;h3 id=&#34;figure-4&#34;&gt;Figure 4&lt;/h3&gt;
 &lt;h4 id=&#34;a-1&#34;&gt;A&lt;/h4&gt;
-&lt;p&gt;
-
-&lt;div id=&#34;/json/fig4A.json&#34; class=&#34;plotly&#34; style=&#34;height:600px;&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  d3.json(&#34;/json/fig4A.json&#34;).then(function (fig) {
-      Plotly.newPlot(&#39;\/json\/fig4A.json&#39;, fig.data, fig.layout, { responsive: true });
-  });
-&lt;/script&gt;
-&lt;strong&gt;Drag the slider&lt;/strong&gt; to view what allometry adjustment does to the PCA morphospace.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;//plotly.com/~jinyung/1.embed?showlink=false&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Drag the slider&lt;/strong&gt; to view what allometry adjustment does to the PCA morphospace&lt;/p&gt;
 </description>
     </item>
     
