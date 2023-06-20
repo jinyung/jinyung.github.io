@@ -240,7 +240,7 @@
     
       <meta property="article:published_time" content="2020-06-29T14:41:54&#43;00:00">
     
-    <meta property="article:modified_time" content="2023-04-22T12:37:09&#43;08:00">
+    <meta property="article:modified_time" content="2023-06-20T10:50:32&#43;08:00">
   
 
   
@@ -271,7 +271,7 @@
   ],
   
   "datePublished": "2020-06-29T14:41:54Z",
-  "dateModified": "2023-04-22T12:37:09+08:00",
+  "dateModified": "2023-06-20T10:50:32+08:00",
   
   "author": {
     "@type": "Person",
@@ -303,6 +303,12 @@
 
 
 
+  
+  
+  
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-2.11.1.min.js"></script>
+  
 
   <title>Phylogenetic, ecological and biomechanical constraints on larval form: a comparative morphological analysis of barnacle nauplii | WONG Jin Yung | 王敬湧</title>
 
@@ -679,6 +685,25 @@
     Supplement
   </a>
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/publication/wong-2018-naupliimorph/#interactive-plots" >
+    
+    Interactive plots
+  </a>
+
 
 </div>
 
@@ -739,7 +764,69 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><h2 id="interactive-plots">Interactive plots</h2>
+<h3 id="figure-1">Figure 1</h3>
+<h4 id="b">B</h4>
+
+
+<div id="/json/fig1.json" class="plotly" style="height:400px;"></div>
+<script>
+  d3.json("/json/fig1.json").then(function (fig) {
+      Plotly.newPlot('\/json\/fig1.json', fig.data, fig.layout, { responsive: true });
+  });
+</script>
+<p>Outline reconstructed from elliptic Fourier analysis. <strong>Drag the slider</strong> to view
+reconstructed outlines using different number of harmonics. Note how quickly the
+outlines change in the first 20 harmonics but little improvement after that.</p>
+<h3 id="figure-2">Figure 2</h3>
+<h4 id="a">A</h4>
+<p>
+
+<div id="/json/fig2_1.json" class="plotly" style="height:600px;"></div>
+<script>
+  d3.json("/json/fig2_1.json").then(function (fig) {
+      Plotly.newPlot('\/json\/fig2_1.json', fig.data, fig.layout, { responsive: true });
+  });
+</script>
+Plot of first two principal component scores from principal component analysis
+(PCA) on outline shape of stage II barnacle nauplii. <strong>Mouse over</strong> to see species
+name and other information of data points.</p>
+<h3 id="figure-3">Figure 3</h3>
+<h4 id="b-1">B</h4>
+<p>
+
+<div id="/json/fig3_1.json" class="plotly" style="height:500px;"></div>
+<script>
+  d3.json("/json/fig3_1.json").then(function (fig) {
+      Plotly.newPlot('\/json\/fig3_1.json', fig.data, fig.layout, { responsive: true });
+  });
+</script>
+Shape score associated with size estimated from multivariate regression of shape
+of nauplii outlines on size. <strong>Mouse over</strong> to see species
+name and other information of data points.</p>
+<h4 id="c">C</h4>
+<p>
+
+<div id="/json/fig3_2.json" class="plotly" style="height:400px;"></div>
+<script>
+  d3.json("/json/fig3_2.json").then(function (fig) {
+      Plotly.newPlot('\/json\/fig3_2.json', fig.data, fig.layout, { responsive: true });
+  });
+</script>
+Predicted shapes from regression of shape on size. <strong>Drag the slider</strong> to view
+predicted shapes at different percentiles of size.</p>
+<h3 id="figure-4">Figure 4</h3>
+<h4 id="a-1">A</h4>
+<p>
+
+<div id="/json/fig4A.json" class="plotly" style="height:600px;"></div>
+<script>
+  d3.json("/json/fig4A.json").then(function (fig) {
+      Plotly.newPlot('\/json\/fig4A.json', fig.data, fig.layout, { responsive: true });
+  });
+</script>
+<strong>Drag the slider</strong> to view what allometry adjustment does to the PCA morphospace.</p>
+</div>
 
     
 

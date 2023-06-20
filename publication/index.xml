@@ -15,7 +15,7 @@
     <item>
       <title>A feature extraction free approach for protein interactome inference from co-elution data</title>
       <link>https://jinyung.github.io/publication/chen-2023-spiffed/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://jinyung.github.io/publication/chen-2023-spiffed/</guid>
       <description></description>
     </item>
@@ -203,7 +203,69 @@
       <link>https://jinyung.github.io/publication/wong-2018-naupliimorph/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://jinyung.github.io/publication/wong-2018-naupliimorph/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;interactive-plots&#34;&gt;Interactive plots&lt;/h2&gt;
+&lt;h3 id=&#34;figure-1&#34;&gt;Figure 1&lt;/h3&gt;
+&lt;h4 id=&#34;b&#34;&gt;B&lt;/h4&gt;
+
+
+&lt;div id=&#34;/json/fig1.json&#34; class=&#34;plotly&#34; style=&#34;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  d3.json(&#34;/json/fig1.json&#34;).then(function (fig) {
+      Plotly.newPlot(&#39;\/json\/fig1.json&#39;, fig.data, fig.layout, { responsive: true });
+  });
+&lt;/script&gt;
+&lt;p&gt;Outline reconstructed from elliptic Fourier analysis. &lt;strong&gt;Drag the slider&lt;/strong&gt; to view
+reconstructed outlines using different number of harmonics. Note how quickly the
+outlines change in the first 20 harmonics but little improvement after that.&lt;/p&gt;
+&lt;h3 id=&#34;figure-2&#34;&gt;Figure 2&lt;/h3&gt;
+&lt;h4 id=&#34;a&#34;&gt;A&lt;/h4&gt;
+&lt;p&gt;
+
+&lt;div id=&#34;/json/fig2_1.json&#34; class=&#34;plotly&#34; style=&#34;height:600px;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  d3.json(&#34;/json/fig2_1.json&#34;).then(function (fig) {
+      Plotly.newPlot(&#39;\/json\/fig2_1.json&#39;, fig.data, fig.layout, { responsive: true });
+  });
+&lt;/script&gt;
+Plot of first two principal component scores from principal component analysis
+(PCA) on outline shape of stage II barnacle nauplii. &lt;strong&gt;Mouse over&lt;/strong&gt; to see species
+name and other information of data points.&lt;/p&gt;
+&lt;h3 id=&#34;figure-3&#34;&gt;Figure 3&lt;/h3&gt;
+&lt;h4 id=&#34;b-1&#34;&gt;B&lt;/h4&gt;
+&lt;p&gt;
+
+&lt;div id=&#34;/json/fig3_1.json&#34; class=&#34;plotly&#34; style=&#34;height:500px;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  d3.json(&#34;/json/fig3_1.json&#34;).then(function (fig) {
+      Plotly.newPlot(&#39;\/json\/fig3_1.json&#39;, fig.data, fig.layout, { responsive: true });
+  });
+&lt;/script&gt;
+Shape score associated with size estimated from multivariate regression of shape
+of nauplii outlines on size. &lt;strong&gt;Mouse over&lt;/strong&gt; to see species
+name and other information of data points.&lt;/p&gt;
+&lt;h4 id=&#34;c&#34;&gt;C&lt;/h4&gt;
+&lt;p&gt;
+
+&lt;div id=&#34;/json/fig3_2.json&#34; class=&#34;plotly&#34; style=&#34;height:400px;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  d3.json(&#34;/json/fig3_2.json&#34;).then(function (fig) {
+      Plotly.newPlot(&#39;\/json\/fig3_2.json&#39;, fig.data, fig.layout, { responsive: true });
+  });
+&lt;/script&gt;
+Predicted shapes from regression of shape on size. &lt;strong&gt;Drag the slider&lt;/strong&gt; to view
+predicted shapes at different percentiles of size.&lt;/p&gt;
+&lt;h3 id=&#34;figure-4&#34;&gt;Figure 4&lt;/h3&gt;
+&lt;h4 id=&#34;a-1&#34;&gt;A&lt;/h4&gt;
+&lt;p&gt;
+
+&lt;div id=&#34;/json/fig4A.json&#34; class=&#34;plotly&#34; style=&#34;height:600px;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  d3.json(&#34;/json/fig4A.json&#34;).then(function (fig) {
+      Plotly.newPlot(&#39;\/json\/fig4A.json&#39;, fig.data, fig.layout, { responsive: true });
+  });
+&lt;/script&gt;
+&lt;strong&gt;Drag the slider&lt;/strong&gt; to view what allometry adjustment does to the PCA morphospace.&lt;/p&gt;
+</description>
     </item>
     
     <item>
