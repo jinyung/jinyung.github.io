@@ -2,35 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jinyung.github.io/courses/life_science/</loc>
+    <lastmod>2026-01-21T15:21:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jinyung.github.io/courses/machine_learning/</loc>
+    <lastmod>2026-01-21T15:21:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jinyung.github.io/courses/moving_fluids/</loc>
+    <lastmod>2026-01-21T15:21:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jinyung.github.io/courses/programming/</loc>
+    <lastmod>2026-01-21T15:21:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jinyung.github.io/</loc>
+    <lastmod>2026-01-21T15:21:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jinyung.github.io/join_us/phd_ad/</loc>
+    <lastmod>2026-01-21T15:21:21+08:00</lastmod>
+  </url><url>
     <loc>https://jinyung.github.io/author/huai-kuang-tsai/</loc>
-    <lastmod>2023-06-20T01:05:17+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/jin-yung-wong/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/publication-type/2/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/publication/chen-2023-spiffed/</loc>
     <lastmod>2023-06-20T01:05:17+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/authors/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
+    <lastmod>2026-01-19T17:34:39+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/chien-fu-liu/</loc>
     <lastmod>2023-06-20T01:05:17+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/cnn/</loc>
-    <lastmod>2023-06-20T01:05:17+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/deep-learning/</loc>
-    <lastmod>2023-06-20T01:05:17+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/interactome/</loc>
     <lastmod>2023-06-20T01:05:17+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/jun-yi-leu/</loc>
-    <lastmod>2023-06-20T01:05:17+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/kuan-hao-chao/</loc>
     <lastmod>2023-06-20T01:05:17+08:00</lastmod>
@@ -42,37 +60,34 @@
     <lastmod>2023-06-20T01:05:17+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/publication_types/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tags/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
-  </url><url>
-    <loc>https://jinyung.github.io/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/yu-hsin-chen/</loc>
     <lastmod>2023-06-20T01:05:17+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/cheng-fu-kao/</loc>
-    <lastmod>2023-06-01T15:21:20+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/dnabert/</loc>
-    <lastmod>2023-06-01T15:21:20+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/eccdna/</loc>
-    <lastmod>2023-06-01T15:21:20+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/jia-hong-chen/</loc>
-    <lastmod>2023-06-01T15:21:20+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/kai-li-chang/</loc>
-    <lastmod>2023-06-01T15:21:20+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/publication/chang-2023-deep-circle/</loc>
-    <lastmod>2023-06-01T15:21:20+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/tzu-chieh-lin/</loc>
-    <lastmod>2023-06-01T15:21:20+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/publication/branam-2021-tail/</loc>
     <lastmod>2023-06-29T10:55:08+08:00</lastmod>
@@ -87,28 +102,28 @@
     <lastmod>2023-06-29T10:55:08+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/benny-k.-k.-chan/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/cyprid/</loc>
-    <lastmod>2023-04-26T21:51:31+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/flow-structure/</loc>
-    <lastmod>2023-04-26T21:51:31+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/high-speed-imaging/</loc>
-    <lastmod>2023-04-26T21:51:31+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/k.-y.-karen-chan/</loc>
-    <lastmod>2023-06-29T10:55:08+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/metamorphosis/</loc>
-    <lastmod>2023-04-26T21:51:31+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/nauplius/</loc>
-    <lastmod>2023-04-26T21:51:31+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/publication/wong-2020-cyprid/</loc>
-    <lastmod>2023-04-26T21:51:31+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/tag/cirripedia/</loc>
     <lastmod>2023-04-26T21:51:31+08:00</lastmod>
@@ -213,18 +228,24 @@
     <lastmod>2023-04-22T19:53:49+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/author/</loc>
-    <lastmod>2023-04-22T19:53:49+08:00</lastmod>
+    <lastmod>2026-01-19T17:34:39+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/categories/</loc>
   </url><url>
     <loc>https://jinyung.github.io/contact/</loc>
-    <lastmod>2023-04-22T19:53:49+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
+  </url><url>
+    <loc>https://jinyung.github.io/courses/</loc>
+    <lastmod>2026-01-09T17:00:03+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/gallery/</loc>
-    <lastmod>2020-07-08T12:41:53+08:00</lastmod>
+    <lastmod>2026-01-08T17:42:43+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/cycling_gallery/</loc>
     <lastmod>2020-07-08T12:41:53+08:00</lastmod>
+  </url><url>
+    <loc>https://jinyung.github.io/join_us/</loc>
+    <lastmod>2026-01-09T17:00:03+08:00</lastmod>
   </url><url>
     <loc>https://jinyung.github.io/post/</loc>
     <lastmod>2020-07-14T23:52:39+08:00</lastmod>

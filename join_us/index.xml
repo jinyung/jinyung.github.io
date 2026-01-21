@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Join Us! | WONG Jin Yung</title>
+    <link>https://jinyung.github.io/join_us/</link>
+      <atom:link href="https://jinyung.github.io/join_us/index.xml" rel="self" type="application/rss+xml" />
+    <description>Join Us!</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2026 Wong Jin Yung</copyright>
+    <image>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_3.png</url>
+      <title>Join Us!</title>
+      <link>https://jinyung.github.io/join_us/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Multimodal Data</title>
+      <link>https://jinyung.github.io/join_us/phd_ad/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jinyung.github.io/join_us/phd_ad/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: &lt;strong&gt;Open&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project title&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Deep Learning for Multimodal Biodiversity Data (Marine Larvae Focus)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the project&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;We are seeking a motivated PhD student to develop a deep learning framework for
+the comparative study of multimodal biodiversity data, with a focus on marine larvae.
+This interdisciplinary project combines biological data collection with modern
+deep learning methods to support efficient data exploration, meaningful interpretation,
+and biologically plausible prediction.&lt;/p&gt;
+&lt;p&gt;The position is part of a funded project that
+involves both data collection and model development.
+We will collect data from marine larvae for model training; however, the framework
+will be applicable to multimodal biodiversity data in general.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required qualifications&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Master&amp;rsquo;s degree (Bioinformatics, Data Science, Oceanography, Biology or other relevant fields)&lt;/li&gt;
+&lt;li&gt;Demonstrated programming experience (through completed independent project)&lt;/li&gt;
+&lt;li&gt;Strong interest in interdisciplinary research&lt;/li&gt;
+&lt;li&gt;Good written and spoken English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Desirable skills&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with deep learning frameworks (Pytorch or Tensorflow)&lt;/li&gt;
+&lt;li&gt;Basic knowledge of databases or web application development&lt;/li&gt;
+&lt;li&gt;Background in evolutionary biology, marine larvae, or geometric morphometrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the position&lt;/strong&gt; :&lt;/p&gt;
+&lt;p&gt;The successful candidate will register as a PhD student under the 
+&lt;a href=&#34;https://igpmst.nsysu.edu.tw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Doctoral Program of Marine Science and Technology&lt;/a&gt; at
+National Sun Yat-sen University, Kaohsiung, Taiwan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Financial supports&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Various sources of PhD scholarships are available for both domestic and international students.
+Additional financial support may be available in the form of teaching assistantships and research assistantships.
+Performance-based incentives may be offered based on research output and academic progress.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the lab&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;We use interdisciplinary approaches to study problems in evolution and ecology
+in marine environments, including experimental fluid dynamics and deep learning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to apply&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Please email your cover letter, CV, transcript, and contact details for referees in a single PDF file to Dr. Jin Yung Wong: 
+&lt;a href=&#34;mailto:wongjinyung@mail.nsysu.edu.tw&#34;&gt;wongjinyung@mail.nsysu.edu.tw&lt;/a&gt;
+. If you are unsure about your suitability for the project or are more interested in the experimental component,
+you are welcome to contact for inquiry.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
