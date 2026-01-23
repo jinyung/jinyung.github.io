@@ -161,6 +161,25 @@ this will equip them with the skills to build an interactive web app that allows
 &lt;li&gt;Final project presentation&lt;/li&gt;
 &lt;li&gt;Final project presentation&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;web-app-examples&#34;&gt;Web app examples&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jinyung.github.io/DO243A/mnist.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hand written digit predictor&lt;/a&gt; (embedded below)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jinyung.github.io/DO243A/Typhoon_track_viewer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Typhoon track viewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jinyung.github.io/DO243A/K_means.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K-means clustering visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jinyung.github.io/DO243A/Ocean_current.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ocean current viewer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;div style=&#34;position: relative; padding-bottom: 75%; height: 0;&#34;&gt;
+    &lt;iframe 
+      src=&#34;https://jinyung.github.io/DO243A/mnist.html&#34;
+      style=&#34;position:absolute; width:100%; height:250%; border:1px solid #ddd; border-radius:8px;&#34;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/figure&gt;
 </description>
     </item>
     
