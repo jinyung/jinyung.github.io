@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>undergrad | WONG Jin Yung</title>
+    <link>https://jinyung.github.io/tag/undergrad/</link>
+      <atom:link href="https://jinyung.github.io/tag/undergrad/index.xml" rel="self" type="application/rss+xml" />
+    <description>undergrad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2026 Wong Jin Yung</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_3.png</url>
+      <title>undergrad</title>
+      <link>https://jinyung.github.io/tag/undergrad/</link>
+    </image>
+    
+    <item>
+      <title>Life sciences</title>
+      <link>https://jinyung.github.io/courses/life_science/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jinyung.github.io/courses/life_science/</guid>
+      <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;GEAE2514B&lt;/code&gt; (undergrad), under general education courses&lt;/p&gt;
+&lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
+&lt;p&gt;113-1, 113-2, 114-1 (offered regularly every semester)&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;I cover half of this general education course, focusing on the evolution of organisms and their interactions with each other and with the environments they inhabit.&lt;/p&gt;
+&lt;p&gt;The class is designed for non-biology majors and introduces students to the fascinating world of living organisms. I aim to show that life sciences are highly relatable and touch on fundamental questions related to our own existence and daily life. I also connect life sciences to other disciplines, so students from different majors can see how these ideas connect with their fields.&lt;/p&gt;
+&lt;p&gt;Here are some of the topics I will cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Evolution by natural selection is a big idea. Where did it come from?
+Influences on Charles Darwin, including economic theories of resource competition.&lt;/li&gt;
+&lt;li&gt;Why Charles Darwin&amp;rsquo;s theory of evolution is not just about &amp;ldquo;survival of the fittest&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Mutation can cause cancer, yet without it long term evolution is impossible.&lt;/li&gt;
+&lt;li&gt;Survival of the luckiest: not all evolutionary changes are adaptations;
+some are simply the outcome of random sampling.&lt;/li&gt;
+&lt;li&gt;Nature vs. Nurture: If evolution acts only on genes, does choice still matter?&lt;/li&gt;
+&lt;li&gt;To fight or not to fight? Peace benefits everyone, but why it is so hard to
+maintain and why doesn&amp;rsquo;t aggression take over entirely in nature?&lt;/li&gt;
+&lt;li&gt;If evolution acts on individual rather than group survival,
+how can cooperation and even self-sacrificial behavior evolve?&lt;/li&gt;
+&lt;li&gt;Why have peacocks evolved a large, colorful tail that handicaps them?
+How sexual selection explains &amp;ldquo;illogical&amp;rdquo; mate choice in animals.&lt;/li&gt;
+&lt;li&gt;Will the human population continue to grow? What limits it, and
+how does it compare to other organisms?&lt;/li&gt;
+&lt;li&gt;Why do animal populations cycle or fluctuate? The link to the &amp;ldquo;the butterfly effect&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;If extinction is natural, why should we save species? If survival of the fittest
+rules nature, why save the losers?&lt;/li&gt;
+&lt;li&gt;The race to resource exploitation: are we doomed,
+or can we escape &amp;ldquo;the tragedy of the commons&amp;rdquo;? Is reducing consumption the answer?&lt;/li&gt;
+&lt;li&gt;How close are we to climate tipping points? Why didn&amp;rsquo;t we notice them coming earlier?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
+&lt;p&gt;None. My classes are quite different from high school biology. It doesn’t matter much whether you have studied biology before.&lt;/p&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The origin of species and the tree of life&lt;/li&gt;
+&lt;li&gt;Principles of evolution&lt;/li&gt;
+&lt;li&gt;Animal behavior, conflicts and cooperation&lt;/li&gt;
+&lt;li&gt;Sexual selection and evolution summary&lt;/li&gt;
+&lt;li&gt;Population and community ecology&lt;/li&gt;
+&lt;li&gt;The Anthropocene and conservation biology&lt;/li&gt;
+&lt;li&gt;Exam&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://jinyung.github.io/courses/machine_learning/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jinyung.github.io/courses/machine_learning/</guid>
+      <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;DO354&lt;/code&gt; (undergrad)/ &lt;code&gt;DO720&lt;/code&gt; (postgrad), under the Department of Oceanography&lt;/p&gt;
+&lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
+&lt;p&gt;113-1, 114-1 (offered every year in the first semester)&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;This course introduces students to machine learning and its applications.
+Upon completion, students will be able to implement various ML models,
+from simple linear models to deep learning models, and apply them to
+problems in marine sciences.&lt;/p&gt;
+&lt;p&gt;The first part of the course focuses on the basic machine learning concepts and
+implementation with 
+&lt;a href=&#34;https://scikit-learn.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;scikit-learn&lt;/code&gt;&lt;/a&gt;.
+More time is spent on coding than on theory in this part to help students become
+confident with coding and familiar with the general workflow of model training.&lt;/p&gt;
+&lt;p&gt;The second part focuses on the basics of deep learning and implementation
+using 
+&lt;a href=&#34;https://www.tensorflow.org/guide/keras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Keras/TensorFlow&lt;/code&gt;&lt;/a&gt;.
+More time is spent on conceptual understanding in this part, i.e.,
+heavy use of blackboard explanations, to help students become confident in explaining
+how each type of neural network model works.&lt;/p&gt;
+&lt;p&gt;We will use examples in marine sciences throughout the course.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
+&lt;p&gt;We will use &lt;code&gt;Python&lt;/code&gt; for implementation (using 
+&lt;a href=&#34;https://colab.research.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Colab&lt;/a&gt;), so students are required to have some programming experience in &lt;code&gt;Python&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to machine learning&lt;/li&gt;
+&lt;li&gt;Python crash course and data preprocessing&lt;/li&gt;
+&lt;li&gt;Regression&lt;/li&gt;
+&lt;li&gt;Classification&lt;/li&gt;
+&lt;li&gt;Dimension reduction&lt;/li&gt;
+&lt;li&gt;Clustering&lt;/li&gt;
+&lt;li&gt;Part 1 summary&lt;/li&gt;
+&lt;li&gt;Mid-term exam / Final project proposal&lt;/li&gt;
+&lt;li&gt;Introduction to deep learning&lt;/li&gt;
+&lt;li&gt;Multilayer perceptron (Part 1: forward propogation and loss function)&lt;/li&gt;
+&lt;li&gt;Multilayer perceptron (Part 2: back propagation and gradient descent)&lt;/li&gt;
+&lt;li&gt;Autoencoder&lt;/li&gt;
+&lt;li&gt;Recurrent neural network&lt;/li&gt;
+&lt;li&gt;Convolutional neural network&lt;/li&gt;
+&lt;li&gt;Transfer learning&lt;/li&gt;
+&lt;li&gt;Part 2 summary&lt;/li&gt;
+&lt;li&gt;Final project presentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://jinyung.github.io/courses/programming/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jinyung.github.io/courses/programming/</guid>
+      <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;DO243A&lt;/code&gt; (undergrad), under the Department of Oceanography&lt;/p&gt;
+&lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
+&lt;p&gt;113-2, 114-2 (offered every year in the second semester)&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;This course introduces students to basic programming concepts using &lt;code&gt;Python&lt;/code&gt;.
+Upon completion, students will be able to write their own programs in &lt;code&gt;Python&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The first part of the course focuses on the basics of programming and the &lt;code&gt;Python&lt;/code&gt; language.
+Students will learn built-in data types and use conditionals and iterations to
+write their first programs. We will use mostly &amp;ldquo;vanilla&amp;rdquo; &lt;code&gt;Python&lt;/code&gt; in this part within
+the command line interface to build a strong foundation.&lt;/p&gt;
+&lt;p&gt;The second part focuses on using popular external libraries. This part is useful
+for students learning programming for data analysis. We will use &lt;code&gt;Google Colab&lt;/code&gt;
+to demonstrate how data can be conveniently processed, analyzed and visualized
+in a notebook format.&lt;/p&gt;
+&lt;p&gt;Finally, students will be introduced to web app development to present their
+ideas and let users to interact with their programs easily online.
+We will use &lt;code&gt;Streamlit&lt;/code&gt; to demonstrate. For students planning to also take 
+&lt;a href=&#34;https://jinyung.github.io/courses/machine_learning/&#34;&gt;Machine learning&lt;/a&gt; later,
+this will equip them with the skills to build an interactive web app that allows users to use their model online.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
+&lt;p&gt;None.&lt;/p&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to programming and Python basics&lt;/li&gt;
+&lt;li&gt;Data types&lt;/li&gt;
+&lt;li&gt;Logical operators and conditionals (if-else)&lt;/li&gt;
+&lt;li&gt;Iterations (for loop, while loop, comprehensions, recursion)&lt;/li&gt;
+&lt;li&gt;Function (arguments, variable scopes, testing)&lt;/li&gt;
+&lt;li&gt;Randomization (sampling, simulation)&lt;/li&gt;
+&lt;li&gt;Optional topics depending on progress: parallel processing, intro to programming paradigms (procedural, functional, object-oriented), regular expression&lt;/li&gt;
+&lt;li&gt;Midterm exam and final project proposal&lt;/li&gt;
+&lt;li&gt;Introduction to data analysis libraries and web app development&lt;/li&gt;
+&lt;li&gt;Data frames processing with Pandas&lt;/li&gt;
+&lt;li&gt;Data visualization&lt;/li&gt;
+&lt;li&gt;Numerical analysis with NumPy&lt;/li&gt;
+&lt;li&gt;Building interactive web app I&lt;/li&gt;
+&lt;li&gt;Building interactive web app II&lt;/li&gt;
+&lt;li&gt;Final project presentation&lt;/li&gt;
+&lt;li&gt;Final project presentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

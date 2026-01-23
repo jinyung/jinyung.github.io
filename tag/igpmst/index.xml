@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IGPMST | WONG Jin Yung</title>
+    <link>https://jinyung.github.io/tag/igpmst/</link>
+      <atom:link href="https://jinyung.github.io/tag/igpmst/index.xml" rel="self" type="application/rss+xml" />
+    <description>IGPMST</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2026 Wong Jin Yung</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_3.png</url>
+      <title>IGPMST</title>
+      <link>https://jinyung.github.io/tag/igpmst/</link>
+    </image>
+    
+    <item>
+      <title>Marine life in moving fluids</title>
+      <link>https://jinyung.github.io/courses/moving_fluids/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://jinyung.github.io/courses/moving_fluids/</guid>
+      <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;IGPM709&lt;/code&gt; (postgrad), under the International graduate program of marine sciences and technology&lt;/p&gt;
+&lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
+&lt;p&gt;113-2, 114-1 (offered non-regularly)&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;This is an interdisciplinary graduate course based heavily on the book &lt;em&gt;
+&lt;a href=&#34;https://press.princeton.edu/books/paperback/9780691026169/life-in-moving-fluids&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Life in moving fluids: the physical biology of flow&lt;/a&gt;&lt;/em&gt;,
+and supplemented with a list of research papers for recent progress of the field.&lt;/p&gt;
+&lt;p&gt;I aim to show that many aspects of the evolution and plasticity of marine organisms are shaped by interactions with their surrounding fluid environment, demonstrated by surprising adaptations and counterintuitive insights into how animals swim and feed.&lt;/p&gt;
+&lt;p&gt;Students will learn key concepts in biological flows through discussion of the book chapters, as well as advanced methods and experimental designs used in biological flow research through discussion of the selected papers.&lt;/p&gt;
+&lt;p&gt;By the end of the course, students are expected to be able to formulate biological questions from the perspective of flow interactions and to critically evaluate research papers in the field.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
+&lt;p&gt;Students with backgrounds in either biology or physics/ engineering are welcome.&lt;/p&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction: what is fluid?&lt;/li&gt;
+&lt;li&gt;Drag, scale, and Reynolds number&lt;/li&gt;
+&lt;li&gt;Flow visualization methods&lt;/li&gt;
+&lt;li&gt;Flow field analysis&lt;/li&gt;
+&lt;li&gt;Motion analysis&lt;/li&gt;
+&lt;li&gt;Sessile systems&lt;/li&gt;
+&lt;li&gt;Moving animals&lt;/li&gt;
+&lt;li&gt;Midterm exam&lt;/li&gt;
+&lt;li&gt;Life in velocity gradients and boundary layers&lt;/li&gt;
+&lt;li&gt;Making and using vortices&lt;/li&gt;
+&lt;li&gt;Lift and hydrofoils&lt;/li&gt;
+&lt;li&gt;Thrust of swimming&lt;/li&gt;
+&lt;li&gt;Life at low Reynolds number&lt;/li&gt;
+&lt;li&gt;Advanced topics&lt;/li&gt;
+&lt;li&gt;Final presentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
