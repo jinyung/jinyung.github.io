@@ -5,7 +5,7 @@
     <link>https://jinyung.github.io/tag/main/</link>
       <atom:link href="https://jinyung.github.io/tag/main/index.xml" rel="self" type="application/rss+xml" />
     <description>main</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2026 Wong Jin Yung</copyright><lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2026 Wong Jin Yung</copyright><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_3.png</url>
       <title>main</title>
@@ -13,14 +13,71 @@
     </image>
     
     <item>
+      <title>Bioinformatics</title>
+      <link>https://jinyung.github.io/courses/bioinformatics/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jinyung.github.io/courses/bioinformatics/</guid>
+      <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;MBR357&lt;/code&gt; (undergrad), under the Department of Marine Biotechnology and Resources&lt;/p&gt;
+&lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
+&lt;p&gt;115-1 (offered every year in the first semester)&lt;/p&gt;
+&lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
+&lt;p&gt;Bioinformatics integrates biology, statistics and computer science.
+This course is suitable for students who want to learn how to use computers to run
+analysis by building pipelines from existing software, or by designing a new
+algorithm. I will use some classical problems to demonstrate: sequence
+alignment, phylogeny reconstruction, motif finding, etc. The focus is not on the topics &lt;em&gt;per se&lt;/em&gt;,
+but rather on how we formulate them as computationally solvable problems. The course
+is therefore designed to be general, with the hopes that the skills and concepts
+learned will be transferable across the vast number of topics in bioinformatics,
+and even outside of biology. Therefore, this course is also suitable for students with
+little biology background.&lt;/p&gt;
+&lt;p&gt;The first part of the course focuses on the practical data analysis. Students will learn how to work in a Linux virtual machine (using
+
+&lt;a href=&#34;https://github.com/features/codespaces&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Codespaces&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to identify suitable software for a question&lt;/li&gt;
+&lt;li&gt;How to install software for reproducible analysis&lt;/li&gt;
+&lt;li&gt;How to format inputs and outputs so that different software tools can work together&lt;/li&gt;
+&lt;li&gt;How to combine multiple software tools into a pipeline&lt;/li&gt;
+&lt;li&gt;How to work with large files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These basics are best taught in a command line interface, inside a Linux environment so that students can better understand how a computer works.&lt;/p&gt;
+&lt;p&gt;The second part of the course focuses on learning the algorithms underlying these
+software. Students will learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How many possible solutions does this problem have?&lt;/li&gt;
+&lt;li&gt;How can we score a solution?&lt;/li&gt;
+&lt;li&gt;How can we find the solution with the best score using the least computation?&lt;/li&gt;
+&lt;li&gt;When the number of possibilities is too large, how can we find an approximate best solution?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Specifically, I will focus on the concepts (or their simplifications)
+of &lt;strong&gt;Dynamic Programming (DP)&lt;/strong&gt;, &lt;strong&gt;Maximum Likelihood Estimation (MLE)&lt;/strong&gt;,
+and &lt;strong&gt;Expectation Maximization (EM)&lt;/strong&gt;, with significant amount of time spent on DP.&lt;/p&gt;
+&lt;p&gt;In the last part of the course, I will briefly introduce students to the concept of deep learning (DL),
+as it has become increasingly important in bioinformatics. The goal here is to connect the
+optimization methods students learned in the previous part to how DL models works.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Biological knowledge&lt;/strong&gt;: Students only need to know that DNA is the genetic material of living organisms and that it consists of four letters: A, G, T, and C. That is all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming experience&lt;/strong&gt;: Prior programming experience is &lt;strong&gt;NOT&lt;/strong&gt; required, but it will be helpful. In the first part of the course, I will teach the necessary computational skills from scratch. In the second part, the focus will shift toward problem-solving by hand. Coding is less central in the age of AI; problem formulation and understanding algorithms are more important.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;to be updated&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Life sciences</title>
       <link>https://jinyung.github.io/courses/life_science/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://jinyung.github.io/courses/life_science/</guid>
       <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;GEAE2514B&lt;/code&gt; (undergrad), under general education courses&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;GEAE2514A&lt;/code&gt;/&lt;code&gt;GEAE2514B&lt;/code&gt; (undergrad), under general education courses&lt;/p&gt;
 &lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
-&lt;p&gt;113-1, 113-2, 114-1 (offered regularly every semester)&lt;/p&gt;
+&lt;p&gt;113-1, 113-2, 114-1, 114-2 (offered regularly every semester)&lt;/p&gt;
 &lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
 &lt;p&gt;I cover half of this general education course, focusing on the evolution of organisms and their interactions with each other and with the environments they inhabit.&lt;/p&gt;
 &lt;p&gt;The class is designed for non-biology majors and introduces students to the fascinating world of living organisms. I aim to show that life sciences are highly relatable and touch on fundamental questions related to our own existence and daily life. I also connect life sciences to other disciplines, so students from different majors can see how these ideas connect with their fields.&lt;/p&gt;
