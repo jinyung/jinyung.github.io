@@ -53,10 +53,10 @@ software. Students will learn:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Specifically, I will focus on the concepts (or their simplifications)
 of &lt;strong&gt;Dynamic Programming (DP)&lt;/strong&gt;, &lt;strong&gt;Maximum Likelihood Estimation (MLE)&lt;/strong&gt;,
-and &lt;strong&gt;Expectation Maximization (EM)&lt;/strong&gt;, with significant amount of time spent on DP.&lt;/p&gt;
+and &lt;strong&gt;Expectation Maximization (EM)&lt;/strong&gt;, etc. I will spend a significant amount of time on DP, building from the basic concepts of recursion and graph representation.&lt;/p&gt;
 &lt;p&gt;In the last part of the course, I will briefly introduce students to the concept of deep learning (DL),
 as it has become increasingly important in bioinformatics. The goal here is to connect the
-optimization methods students learned in the previous part to how DL models works.&lt;/p&gt;
+optimization methods students learned in the previous part to how DL models works with &lt;strong&gt;gradient descent&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Biological knowledge&lt;/strong&gt;: Students only need to know that DNA is the genetic material of living organisms and that it consists of four letters: A, G, T, and C. That is all.&lt;/li&gt;
