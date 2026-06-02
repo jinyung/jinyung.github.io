@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>DNA-DETR: Sequence representation matters in object detection for functional genomic elements</title>
+      <link>https://jinyung.github.io/publication/tsai-2026-dnadetr/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://jinyung.github.io/publication/tsai-2026-dnadetr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A feature extraction free approach for protein interactome inference from co-elution data</title>
       <link>https://jinyung.github.io/publication/chen-2023-spiffed/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
