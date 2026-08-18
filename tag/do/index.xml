@@ -18,7 +18,10 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://jinyung.github.io/courses/bioinformatics/</guid>
       <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;MBR357&lt;/code&gt; (undergrad), under the Department of Marine Biotechnology and Resources&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;MBR357&lt;/code&gt; (undergrad), under the Department of Marine Biotechnology and Resources.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DO451&lt;/code&gt;(undergrad)/ &lt;code&gt;DO727&lt;/code&gt;(grad), under the Department of Oceanography.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
 &lt;p&gt;115-1 (offered every year in the first semester)&lt;/p&gt;
 &lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
@@ -97,7 +100,7 @@ optimization methods students learned in the previous part to how DL models work
       <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;DO354&lt;/code&gt; (undergrad)/ &lt;code&gt;DO720&lt;/code&gt; (postgrad), under the Department of Oceanography&lt;/p&gt;
 &lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
-&lt;p&gt;113-1, 114-1 (offered every year in the first semester)&lt;/p&gt;
+&lt;p&gt;113-1, 114-1, 115-1 (offered every year in the first semester)&lt;/p&gt;
 &lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
 &lt;p&gt;This course introduces students to machine learning and its applications.
 Upon completion, students will be able to implement various ML models,
@@ -197,6 +200,15 @@ this will equip them with the skills to build an interactive web app that allows
 &lt;a href=&#34;https://jinyung.github.io/DO243A/K_means.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;K-means clustering visualization&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://jinyung.github.io/DO243A/Ocean_current.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ocean current viewer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outstanding-students-works&#34;&gt;Outstanding students&amp;rsquo; works&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://eddielss96.github.io/earthquake_monitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taiwan&amp;rsquo;s earthquake dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://kaiii1912.github.io/DP_Learning_Hub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dynamic Programming visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://hsun0-ga-visualization-main-pro6oa.streamlit.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genetic Algorithm visualization&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;
   &lt;div style=&#34;position: relative; padding-bottom: 75%; height: 0;&#34;&gt;

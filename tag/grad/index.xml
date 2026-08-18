@@ -18,7 +18,10 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://jinyung.github.io/courses/bioinformatics/</guid>
       <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;MBR357&lt;/code&gt; (undergrad), under the Department of Marine Biotechnology and Resources&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;MBR357&lt;/code&gt; (undergrad), under the Department of Marine Biotechnology and Resources.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;DO451&lt;/code&gt;(undergrad)/ &lt;code&gt;DO727&lt;/code&gt;(grad), under the Department of Oceanography.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
 &lt;p&gt;115-1 (offered every year in the first semester)&lt;/p&gt;
 &lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
@@ -97,7 +100,7 @@ optimization methods students learned in the previous part to how DL models work
       <description>&lt;h2 id=&#34;course-code&#34;&gt;Course code&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;DO354&lt;/code&gt; (undergrad)/ &lt;code&gt;DO720&lt;/code&gt; (postgrad), under the Department of Oceanography&lt;/p&gt;
 &lt;h2 id=&#34;semesters-taught&#34;&gt;Semesters taught&lt;/h2&gt;
-&lt;p&gt;113-1, 114-1 (offered every year in the first semester)&lt;/p&gt;
+&lt;p&gt;113-1, 114-1, 115-1 (offered every year in the first semester)&lt;/p&gt;
 &lt;h2 id=&#34;course-description&#34;&gt;Course description&lt;/h2&gt;
 &lt;p&gt;This course introduces students to machine learning and its applications.
 Upon completion, students will be able to implement various ML models,
