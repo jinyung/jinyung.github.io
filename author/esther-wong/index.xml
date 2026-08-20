@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kit Yu Karen Chan | WONG Jin Yung</title>
-    <link>https://jinyung.github.io/author/kit-yu-karen-chan/</link>
-      <atom:link href="https://jinyung.github.io/author/kit-yu-karen-chan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kit Yu Karen Chan</description>
+    <title>Esther Wong | WONG Jin Yung</title>
+    <link>https://jinyung.github.io/author/esther-wong/</link>
+      <atom:link href="https://jinyung.github.io/author/esther-wong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Esther Wong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2026 Wong Jin Yung</copyright><lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jinyung.github.io/images/icon_hud9e986e855b8e3846c4fec80f7a61c84_40920_512x512_fill_lanczos_center_3.png</url>
-      <title>Kit Yu Karen Chan</title>
-      <link>https://jinyung.github.io/author/kit-yu-karen-chan/</link>
+      <title>Esther Wong</title>
+      <link>https://jinyung.github.io/author/esther-wong/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://jinyung.github.io/publication/will-2026-3d-printing/</link>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://jinyung.github.io/publication/will-2026-3d-printing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A tail’s tale: biomechanical roles of dorsal thoracic spine of barnacle nauplii</title>
-      <link>https://jinyung.github.io/publication/branam-2021-tail/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://jinyung.github.io/publication/branam-2021-tail/</guid>
       <description></description>
     </item>
     
